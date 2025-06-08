@@ -50,4 +50,4 @@ Simulates an intelligent decision system that evaluates if a user needs to:
 
 
 ## 📸 Example Output
-!![Example Screenshot](screenshot.png)
+!![Example Screenshot](Screenshot.png)
