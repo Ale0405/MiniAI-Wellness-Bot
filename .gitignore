@@ -1,0 +1,38 @@
+# Ambiente virtuale
+.venv/
+venv/
+
+# File di sistema macOS
+.DS_Store
+
+# File VS Code
+.vscode/
+
+# File JetBrains (es. PyCharm)
+.idea/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# File temporanei
+*.log
+*.tmp
+*.swp
+
+# Cartelle di build
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SQLite o file di database
+*.sqlite3
+*.db
+
+# File generati automaticamente
+.env
+.env.*
